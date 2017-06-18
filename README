@@ -1,0 +1,4 @@
+Firmware for a binary clock. 
+See https://hackaday.io/project/25490-binary-clock-rebuild
+
+Requires stm32plus: https://github.com/andysworkshop/stm32plus

@@ -1,0 +1,16 @@
+syntax:glob
+*.*-info
+*.a
+*.dylib
+*.o
+*.orig
+*.os
+*.pyc
+*.s
+*.so
+*.txt
+*~
+.*
+_*.c
+a.out
+__pycache__
